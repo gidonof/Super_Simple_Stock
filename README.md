@@ -3,6 +3,7 @@ Requirements
 1. Provide working source code that will :
 
   a. For a given stock,
+  
     i. Given any price as input, calculate the dividend yield
     
     ii. Given any price as input, calculate the P/E Ratio
